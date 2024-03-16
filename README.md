@@ -61,7 +61,7 @@ Follow these steps to install Stormcrown VR and embark on your enhanced Skyrim j
 
 4. **Wabbajack Installation:** Download Wabbajack from the official website and install it.
 
-5. **Installation Process:** Download the Stormcrown VR Wabbajack file and open Wabbajack. Choose "Install from Disk" and select the downloaded file. Set the output and downloads folders, then initiate the installation process.
+5. **Installation Process:** Select "Browse Modlists" and search for Stormcrown, make sure the "show unofficial lists" option is enabled, press the download button and the the play button. Set the output and downloads folders, then initiate the installation process.
 
 6. **Profile Selection:** Once installation is complete, open the installation folder and launch "Mod Organizer 2.exe". Choose between the provided profiles: CS (Community Shaders) and ENB, based on your preferences and system capabilities.
 
