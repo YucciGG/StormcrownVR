@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Stormcrown VR",
     "description": "A Skyrim VR Modlist focusing on bringing variety and improved gameplay to the base game",
     "author": "Yucci",
@@ -8,30 +7,33 @@
       "github/YucciGG"
     ],
     "game": "skyrimvr",
+    "official": false,
     "tags": [
       "Customizable"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/YucciGG/StormcrownVR/main/StormcrownVR.png",
       "readme": "https://github.com/YucciGG/StormcrownVR/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Stormcrown%20VR.wabbajack_a9046f80-b0a6-4add-94c9-14d55908443a",
+      "download": "https://authored-files.wabbajack.org/Stormcrown VR.wabbajack_204a97dd-b557-407d-ad44-a0ab9e8ee5c1",
       "machineURL": "Stormcrown_VR",
       "discordURL": ""
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "reBN2d9FTxs=",
-      "Size": 337704493,
-      "NumberOfArchives": 368,
-      "SizeOfArchives": 44549850270,
-      "NumberOfInstalledFiles": 163337,
-      "SizeOfInstalledFiles": 65584398975
+      "Hash": "BBvlEkwSAyI=",
+      "Size": 337579486,
+      "NumberOfArchives": 376,
+      "SizeOfArchives": 44816171352,
+      "NumberOfInstalledFiles": 163127,
+      "SizeOfInstalledFiles": 65747779829
     },
-    "version": "0.1.0"
+    "version": "0.1.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-03-16T20:10:08.6097705Z",
+    "repositoryName": ""
   }
 ]
-
