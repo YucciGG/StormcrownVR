@@ -9,7 +9,7 @@
     ],
     "game": "skyrimvr",
     "tags": [
-      "testing"
+      "Skyrim VR"
     ],
     "nsfw": false,
     "image_contains_title": true,
@@ -24,14 +24,14 @@
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "Hash": "0U5igz1zM5g=",
+      "Size": 337716187,
+      "NumberOfArchives": 369,
+      "SizeOfArchives": 44549933996,
+      "NumberOfInstalledFiles": 163369,
+      "SizeOfInstalledFiles": 65584856033
     },
-    "version": "1.0"
+    "version": "0.1.0"
   }
 ]
 
