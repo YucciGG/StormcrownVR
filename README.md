@@ -1,5 +1,8 @@
 # Stormcrown VR: A Wabbajack Modlist
 
+![Stormcrown VR](/StormcrownVR.png)
+
+
 ## Introduction to Stormcrown VR
 Stormcrown VR is a modlist for Skyrim VR, curated with three primary objectives in mind: Variety, Immersion, and Customization.
 
