@@ -16,11 +16,11 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/YucciGG/StormcrownVR/blob/main/StormcrownVR.png",
+      "image": "https://raw.githubusercontent.com/YucciGG/StormcrownVR/main/StormcrownVR.png",
       "readme": "https://github.com/YucciGG/StormcrownVR/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Stormcrown%20VR.wabbajack_a9046f80-b0a6-4add-94c9-14d55908443a",
       "machineURL": "machineURL",
-      "discordURL": ""
+      "discordURL": "Stormcrown_VR"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
