@@ -9,7 +9,7 @@
     ],
     "game": "skyrimvr",
     "tags": [
-      "Skyrim VR"
+      "Customizable"
     ],
     "nsfw": false,
     "image_contains_title": true,
@@ -19,8 +19,8 @@
       "image": "https://raw.githubusercontent.com/YucciGG/StormcrownVR/main/StormcrownVR.png",
       "readme": "https://github.com/YucciGG/StormcrownVR/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Stormcrown%20VR.wabbajack_a9046f80-b0a6-4add-94c9-14d55908443a",
-      "machineURL": "machineURL",
-      "discordURL": "Stormcrown_VR"
+      "machineURL": "Stormcrown_VR",
+      "discordURL": ""
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
