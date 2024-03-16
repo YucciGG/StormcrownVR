@@ -6,6 +6,8 @@
 ## Introduction to Stormcrown VR
 Stormcrown VR is a modlist for Skyrim VR, curated with three primary objectives in mind: Variety, Immersion, and Customization.
 
+Nexusmods: [Stormcrown VR](https://www.nexusmods.com/skyrimspecialedition/mods/113839)
+
 ### Key Features:
 - **Variety:** Enhancing the base game with seasonal changes, completely remade locations like Falkreath, Winterhold, Morthal, and Dawnstar, and seamlessly integrated new weapons and armors. The focus is on balancing these additions to ensure a cohesive experience.
   
