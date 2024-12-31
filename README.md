@@ -1,6 +1,6 @@
 # Stormcrown VR: A Wabbajack Modlist
 
-![Stormcrown VR](/StormcrownVR.png)
+![Stormcrown VR](/Header.png)
 
 
 ## Introduction to Stormcrown VR
