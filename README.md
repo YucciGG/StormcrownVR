@@ -13,7 +13,7 @@ Nexusmods: [Stormcrown VR](https://www.nexusmods.com/skyrimspecialedition/mods/1
   
 - **Immersion:** Prioritizing VR-friendly mods that enhance immersion by allowing interactions with in-game objects. An example of a non VR-friendly mod would be a city mod that adds a bunch of static food and cups on a table for example. In Stormcrown I want the world to be interactive. If I see a cup on a table, I should be able to pick it up.
   
-- **Customizability:** Offering flexibility with two pre-configured profiles: ENB and Community Shaders. Additionally, the modlist is designed to be easily customizable. Don't like a particular mod? Disable it. Have a suggestion for an addition? Feel free to recommend it for consideration.
+- **Customizability:** The modlist is designed to be easily customizable. Don't like a particular mod? Disable it. Have a suggestion for an addition? Feel free to recommend it for consideration.
 
 ## Notable Mods
 
@@ -31,7 +31,7 @@ The modlist aims to strike a balance between challenge and accessibility, offeri
 
 ## Requirements
 
-Whilst Stormcrown VR includes a visual overhaul, it's focus is still on customizability. The modlist offers Community Shaders, meant to be ran without reprojection, it also includes an ENB profile with a couple of different presets depending on your style and hardware, but here's an overview of what you should expect:
+Whilst Stormcrown VR includes a visual overhaul it's higly customizable meaning the performance requirement varies. For reference, here's my my specs
 
 #### Here are my specs: 
 - GPU: RTX 4070 Ti
@@ -40,15 +40,6 @@ Whilst Stormcrown VR includes a visual overhaul, it's focus is still on customiz
 - SSD: M.2 NVMe drive
 
 Now while this is a pretty high end computer, this list is designed to be ran on weaker systems as well. I don't have a minimum specs section because it would be hard to calculate that without any data. If you try the list, please report any performance issues!
-
-### Community Shaders:
-- Designed with performance in mind, but due to the mods added can still be a bit intensive
-### ENB
-- PI-CHO: Designed to be used with reprojection at 120hz, but during my tests ive been able to get 90hz, even outside. However it can dip to 72 fps in certain areas on my hardware.
-- Enhancher ENB: (Performance) A more lightweight ENB Preset which should offer similar performance to Community Shaders while still offering nice visuals
-- Enhancer ENB: (Quality) Same as above, just with more features such as more detailed shadows. Still pretty performance friendly
-
-If you want to add any ENB presets, feel free to do so! I might even include options for weather and even more demanding ENBs for those who prefer looks over frames
 
 ## Installation Guide
 Follow these steps to install Stormcrown VR and embark on your enhanced Skyrim journey:
@@ -63,7 +54,7 @@ Follow these steps to install Stormcrown VR and embark on your enhanced Skyrim j
 
 5. **Installation Process:** Select "Browse Modlists" and search for Stormcrown, make sure the "show unofficial lists" option is enabled, press the download button and the the play button. Set the output and downloads folders, then initiate the installation process.
 
-6. **Profile Selection:** Once installation is complete, open the installation folder and launch "Mod Organizer 2.exe". Choose between the provided profiles: CS (Community Shaders) and ENB, based on your preferences and system capabilities.
+6. **Profile Selection:** Once installation is complete, open the installation folder and launch "Mod Organizer 2.exe".
 
 7. **Customization Options:** While the modlist comes pre-configured for immediate play, feel free to explore customization options. You can always disable mods you dislike, or add mods you think are missing from the modlist
 
