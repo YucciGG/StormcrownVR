@@ -21,7 +21,9 @@
       "readme": "https://github.com/YucciGG/StormcrownVR/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Stormcrown.wabbajack_17aa8360-d064-4f0b-9a6b-88f95d2bbb5c",
       "machineURL": "Stormcrown_VR",
-      "discordURL": ""
+      "discordURL": "",
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "HZYkSaHxfl0=",
@@ -29,7 +31,8 @@
       "NumberOfArchives": 460,
       "SizeOfArchives": 53736115717,
       "NumberOfInstalledFiles": 69453,
-      "SizeOfInstalledFiles": 63958866695
+      "SizeOfInstalledFiles": 63958866695,
+      "TotalSize": 117694982412
     },
     "version": "0.4.0",
     "dateCreated": "1970-01-01T00:00:00Z",
@@ -37,37 +40,43 @@
     "repositoryName": ""
   },
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Thundercrown",
-    "description": "Thundercrown is a vanilla+ style list for Skyrim, meant to bring the game to modern standards whilst keeping the magic that made the game popular in the first place.",
+    "description": "Thundercrown is a vanilla\u002B style list for Skyrim, meant to bring the game to modern standards whilst keeping the magic that made the game popular in the first place.",
     "author": "Yucci",
     "maintainers": [
       "github/YucciGG"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
-      "Vanilla+"
+      "Vanilla\u002B"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/YucciGG/Thundercrown/main/Thundercrown.png",
       "readme": "https://github.com/YucciGG/Thundercrown",
-      "download": "https://authored-files.wabbajack.org/Thundercrown.wabbajack_3a281839-a4af-4ee1-977e-eec2c2cd0c83",
+      "download": "https://authored-files.wabbajack.org/Thundercrown.wabbajack_404e6d35-7bba-4bf7-9996-019f5cfcc2be",
       "machineURL": "Thundercrown",
-      "discordURL": ""
+      "discordURL": "",
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "k42fYCVMiME=",
-      "Size": 7622381,
-      "NumberOfArchives": 374,
-      "SizeOfArchives": 34948427030,
-      "NumberOfInstalledFiles": 50746,
-      "SizeOfInstalledFiles": 49430316357
+      "Hash": "ZC0WDgzuFGM=",
+      "Size": 49285461,
+      "NumberOfArchives": 379,
+      "SizeOfArchives": 37546636828,
+      "NumberOfInstalledFiles": 71160,
+      "SizeOfInstalledFiles": 55504846007,
+      "TotalSize": 93051482835
     },
-    "version": "0.1.0"
+    "version": "0.1.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-05-25T19:25:24.2512042Z",
+    "repositoryName": ""
   }
 ]
