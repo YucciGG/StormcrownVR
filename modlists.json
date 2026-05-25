@@ -55,10 +55,10 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/YucciGG/Thundercrown/main/Thundercrown.png",
-      "readme": "https://github.com/YucciGG/Thundercrown",
+      "readme": "https://github.com/YucciGG/Thundercrown/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Thundercrown.wabbajack_404e6d35-7bba-4bf7-9996-019f5cfcc2be",
       "machineURL": "Thundercrown",
       "discordURL": "",
