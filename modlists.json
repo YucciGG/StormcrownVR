@@ -41,7 +41,7 @@
   },
   {
     "title": "Thundercrown",
-    "description": "Thundercrown is a vanilla\u002B style list for Skyrim, meant to bring the game to modern standards whilst keeping the magic that made the game popular in the first place.",
+    "description": "Thundercrown is a vanilla\u002B style list for Skyrim, meant to bring the game to modern standards whilst keeping the magic that made the game popular in the first place. The current version is considered a beta release.",
     "author": "Yucci",
     "maintainers": [
       "github/YucciGG"
@@ -55,7 +55,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/YucciGG/Thundercrown/main/Thundercrown.webp",
       "readme": "https://github.com/YucciGG/Thundercrown/blob/main/README.md",
