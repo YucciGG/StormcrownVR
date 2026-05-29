@@ -59,24 +59,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/YucciGG/Thundercrown/main/Thundercrown.webp",
       "readme": "https://github.com/YucciGG/Thundercrown/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Thundercrown.wabbajack_495fe319-844b-417e-88da-4de4edd1e4ce",
+      "download": "https://authored-files.wabbajack.org/Thundercrown.wabbajack_171ba685-b555-4581-bcd0-6d842d5ce962",
       "machineURL": "Thundercrown",
       "discordURL": "",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "0YwntfbWeC0=",
-      "Size": 49281140,
-      "NumberOfArchives": 384,
-      "SizeOfArchives": 37130738959,
-      "NumberOfInstalledFiles": 89625,
-      "SizeOfInstalledFiles": 55694277957,
-      "TotalSize": 92825016916
+      "Hash": "ur2uMoCWth8=",
+      "Size": 49474112,
+      "NumberOfArchives": 397,
+      "SizeOfArchives": 37180826999,
+      "NumberOfInstalledFiles": 91552,
+      "SizeOfInstalledFiles": 55774111380,
+      "TotalSize": 92954938379
     },
     "version": "0.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-05-28T21:08:57.3734994Z",
+    "dateUpdated": "2026-05-29T22:09:25.7906762Z",
     "repositoryName": ""
   }
 ]
