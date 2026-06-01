@@ -80,37 +80,43 @@
     "repositoryName": ""
   },
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Frostbound",
-    "description": "Frostbound is a Vanilla+ modlist for Skyrim, focused on improving and expanding the game in a way that preserves the original vision.",
+    "description": "Frostbound is a Vanilla\u002B modlist for Skyrim, focused on improving and expanding the game in a way that preserves the original vision.",
     "author": "Yucci",
     "maintainers": [
       "github/YucciGG"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
-      "Vanilla+"
+      "Vanilla\u002B"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": true,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/YucciGG/Frostbound/refs/heads/main/Frostbound.webp",
       "readme": "https://github.com/YucciGG/Frostbound/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Frostbound.wabbajack_9f496ace-823c-47b7-a0e1-6c416051ead4",
+      "download": "https://authored-files.wabbajack.org/Frostbound.wabbajack_bcb4da75-a9f5-49f8-bfc2-1c9d71bd70ed",
       "machineURL": "Frostbound",
-      "discordURL": ""
+      "discordURL": "",
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "utDgt+/LBpg=",
-      "Size": 24163810,
+      "Hash": "F1idVazNp/U=",
+      "Size": 24163818,
       "NumberOfArchives": 343,
       "SizeOfArchives": 30617828168,
       "NumberOfInstalledFiles": 40102,
-      "SizeOfInstalledFiles": 44767300869
+      "SizeOfInstalledFiles": 44767300869,
+      "TotalSize": 75385129037
     },
-    "version": "0.1.0"
+    "version": "0.1.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-06-01T15:11:40.0432698Z",
+    "repositoryName": ""
   }
 ]
