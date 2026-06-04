@@ -99,24 +99,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/YucciGG/Frostbound/refs/heads/main/Frostbound.webp",
       "readme": "https://github.com/YucciGG/Frostbound/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Frostbound.wabbajack_ca9bb457-815f-438a-a750-9e36b137e702",
+      "download": "https://authored-files.wabbajack.org/Frostbound.wabbajack_c532d14f-86e1-432d-9297-38e5024b4079",
       "machineURL": "Frostbound",
       "discordURL": "",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "vTvRrgVSJXQ=",
-      "Size": 10135202,
-      "NumberOfArchives": 256,
-      "SizeOfArchives": 32541503107,
-      "NumberOfInstalledFiles": 77359,
-      "SizeOfInstalledFiles": 50653839592,
-      "TotalSize": 83195342699
+      "Hash": "9Y7Q9PSviEM=",
+      "Size": 10169746,
+      "NumberOfArchives": 265,
+      "SizeOfArchives": 32564053745,
+      "NumberOfInstalledFiles": 77527,
+      "SizeOfInstalledFiles": 50682234988,
+      "TotalSize": 83246288733
     },
     "version": "0.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-06-04T13:23:51.6938815Z",
+    "dateUpdated": "2026-06-04T14:40:26.811127Z",
     "repositoryName": ""
   }
 ]
