@@ -19,24 +19,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/YucciGG/StormcrownVR/main/StormcrownVR.png",
       "readme": "https://github.com/YucciGG/StormcrownVR/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Stormcrown.wabbajack_17aa8360-d064-4f0b-9a6b-88f95d2bbb5c",
+      "download": "https://authored-files.wabbajack.org/Stormcrown.wabbajack_388e201a-9829-4dad-83c0-227b8848dedb",
       "machineURL": "Stormcrown_VR",
       "discordURL": "",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "HZYkSaHxfl0=",
-      "Size": 22473401,
-      "NumberOfArchives": 460,
-      "SizeOfArchives": 53736115717,
-      "NumberOfInstalledFiles": 69453,
-      "SizeOfInstalledFiles": 63958866695,
-      "TotalSize": 117694982412
+      "Hash": "ITmuuxvXNXQ=",
+      "Size": 6234493,
+      "NumberOfArchives": 257,
+      "SizeOfArchives": 29858059034,
+      "NumberOfInstalledFiles": 90133,
+      "SizeOfInstalledFiles": 46936656985,
+      "TotalSize": 76794716019
     },
-    "version": "0.4.0",
+    "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-01-04T20:18:09.5248328Z",
+    "dateUpdated": "2026-09-20T22:19:58.4894277Z",
     "repositoryName": ""
   },
   {
