@@ -23,7 +23,12 @@
       "machineURL": "Stormcrown_VR",
       "discordURL": "",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "512843",
+        "slug": "x0rr2y",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "ITmuuxvXNXQ=",
